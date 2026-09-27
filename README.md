@@ -1,15 +1,15 @@
-# Hi, I'm Lerato (Lolo) 👋
+# Hi, I'm Lolo 👋
 
-### BSc Computer Science Graduate | Data Science Postgraduate | Finance-Focused Developer
+### BSc Computer Science Graduate | Full-Stack Developer | Data & ML Enthusiast
 
-I'm a developer based in **Midrand, Johannesburg** with a passion for building data-driven solutions for the financial sector. Currently completing a **Postgraduate Diploma in Data Science** at STADIO while building a portfolio of real-world Python, ML, and full-stack projects.
+I'm a developer based in **Midrand, Johannesburg** who loves building things — from machine learning pipelines and data analysis tools to full-stack web applications. I write clean, purposeful code and enjoy turning real-world problems into working software.
 
 ---
 
-## 🚀 What I'm Working On
-- 📊 Building financial data science projects targeting the SA market
-- 🤖 Deepening machine learning skills through hands-on projects
-- 💼 Actively seeking opportunities in **fintech, banking, and data engineering**
+## 🚀 What I'm Up To
+- 🔨 Building a portfolio of full-stack and data science projects
+- 📊 Exploring machine learning, financial data, and API integrations
+- 💼 Actively seeking junior developer or data roles in South Africa
 
 ---
 
@@ -53,15 +53,15 @@ I'm a developer based in **Midrand, Johannesburg** with a passion for building d
 | Project | Description | Tech |
 |---|---|---|
 | [💳 Credit Risk Classifier](https://github.com/LoloM-19/credit-risk-classifier) | ML model predicting loan default risk — 76% accuracy on 1,000 applicants | Python, scikit-learn, pandas |
-| [📈 JSE Stock Market Analysis](https://github.com/LoloM-19/jse-stock-analysis) | 5-year analysis of 6 JSE-listed stocks — returns, volatility, Sharpe Ratios | Python, yfinance, matplotlib |
-| [📚 PageTurn Bookstore](https://github.com/LoloM-19/pageturn-bookstore) | Full-stack e-commerce platform with Stripe payment integration | Flask, SQLAlchemy, Bootstrap |
+| [📈 JSE Stock Market Analysis](https://github.com/LoloM-19/jse-stock-analysis) | 5-year analysis of 6 JSE-listed stocks with returns, volatility & Sharpe Ratios | Python, yfinance, matplotlib |
+| [📚 PageTurn Bookstore](https://github.com/LoloM-19/pageturn-bookstore) | Full-stack e-commerce bookstore with Stripe payment integration | Flask, SQLAlchemy, Bootstrap |
 | [🏥 Clinic Booking System](https://github.com/LoloM-19/clinic-booking-system) | Medical appointment platform with patient and admin portals | Flask, SQLAlchemy, Flask-Mail |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Lerato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoloM-19&show_icons=true&theme=tokyonight&hide_border=true)
+![Lolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoloM-19&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoloM-19&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
@@ -69,8 +69,8 @@ I'm a developer based in **Midrand, Johannesburg** with a passion for building d
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lolomphahlele6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lerato-mphahlele)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lolo-mphahlele-00b414298)
 
 ---
 
-*"Code is like humour. When you have to explain it, it's bad." — Cory House*
+*"First, solve the problem. Then, write the code." — John Johnson*
