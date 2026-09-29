@@ -56,6 +56,7 @@ I'm a developer based in **Midrand, Johannesburg** who loves building things —
 | [📈 JSE Stock Market Analysis](https://github.com/LoloM-19/jse-stock-analysis) | 5-year analysis of 6 JSE-listed stocks with returns, volatility & Sharpe Ratios | Python, yfinance, matplotlib |
 | [📚 PageTurn Bookstore](https://github.com/LoloM-19/pageturn-bookstore) | Full-stack e-commerce bookstore with Stripe payment integration | Flask, SQLAlchemy, Bootstrap |
 | [🏥 Clinic Booking System](https://github.com/LoloM-19/clinic-booking-system) | Medical appointment platform with patient and admin portals | Flask, SQLAlchemy, Flask-Mail |
+| [🏦 Mini Banking System](https://github.com/LoloM-19/mini-banking-system) | CLI banking app with customer and admin roles, transaction history, and audit log | Python, rich, bcrypt |
 
 ---
 
