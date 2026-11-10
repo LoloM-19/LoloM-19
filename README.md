@@ -2,7 +2,7 @@
 
 ### BSc Computer Science Graduate | Full-Stack Developer | Data & ML Enthusiast
 
-I'm a developer based in **Midrand, Johannesburg** who loves building things — from machine learning pipelines and data analysis tools to full-stack web applications. I write clean, purposeful code and enjoy turning real-world problems into working software.
+I'm a developer based in **Midrand, Johannesburg** who loves building things, from machine learning pipelines and data analysis tools to full-stack web applications. I write clean, purposeful code and enjoy turning real-world problems into working software.
 
 ---
 
