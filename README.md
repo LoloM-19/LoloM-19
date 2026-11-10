@@ -52,11 +52,11 @@ I'm a developer based in **Midrand, Johannesburg** who loves building things, fr
 
 | Project | Description | Tech |
 |---|---|---|
+| [🚚 RouteForge](https://github.com/LoloM-19/RouteForge) | Full-stack logistics and route optimization platform featuring warehouse management, delivery location management, road-distance calculations and optimized delivery routes | C#, ASP.NET Core, React, TypeScript, PostgreSQL |
 | [💳 Credit Risk Classifier](https://github.com/LoloM-19/credit-risk-classifier) | ML model predicting loan default risk — 76% accuracy on 1,000 applicants | Python, scikit-learn, pandas |
-| [📈 JSE Stock Market Analysis](https://github.com/LoloM-19/jse-stock-analysis) | 5-year analysis of 6 JSE-listed stocks with returns, volatility & Sharpe Ratios | Python, yfinance, matplotlib |
-| [📚 PageTurn Bookstore](https://github.com/LoloM-19/pageturn-bookstore) | Full-stack e-commerce bookstore with Stripe payment integration | Flask, SQLAlchemy, Bootstrap |
-| [🏥 Clinic Booking System](https://github.com/LoloM-19/clinic-booking-system) | Medical appointment platform with patient and admin portals | Flask, SQLAlchemy, Flask-Mail |
-| [🏦 Mini Banking System](https://github.com/LoloM-19/mini-banking-system) | CLI banking app with customer and admin roles, transaction history, and audit log | Python, rich, bcrypt |
+| [📊 FinFlow](https://github.com/LoloM-19/finflow) | Financial data pipeline for extracting, processing and storing stock market data, with automated workflows and database integration | Python, pandas, DuckDB, GitHub Actions |
+| [🔔 SmartNotify](https://github.com/LoloM-19/smartnotify) | Backend notification service supporting email, SMS and in-app notifications, featuring asynchronous processing and rate limiting | Java, Spring Boot, Redis, PostgreSQL, Docker |
+| [📈 JSE Stock Market Analysis](https://github.com/LoloM-19/jse-stock-analysis) | 5-year analysis of 6 JSE-listed stocks with returns, volatility and Sharpe ratios | Python, yfinance, pandas, NumPy, Matplotlib |
 
 ---
 
